@@ -12,6 +12,7 @@ import java.util.Arrays;
 public class MergeIntersect {
     
     public static void main(String args[]) {
+        //Test Methods
         int[] arr1 = {20, 19, 19, 18, 17, 15, 39, 45, 22};
         int[] arr2 = {1, 2, 3, 0, 0, 17, 19, 19, 45, 69, 20};
         System.out.println(Arrays.toString(intersect(arr1, arr2)));
