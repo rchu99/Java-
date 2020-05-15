@@ -1,2 +1,2 @@
 ## Java Projects
-A compilation of self, homework, and sorting Java projects.
+A compilation of interested projects, sorting algorithims, and past Java homeworks.
